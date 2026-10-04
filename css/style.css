@@ -1,0 +1,23 @@
+.text-bold {font-weight: bold;}
+.overline {text-decoration: overline;text-decoration-color: brown;}
+.aqua {color: aqua;}
+.center {text-align: center;}
+.right {text-align: right;}
+.blue {color: blue;}
+.rem1 {font-size: 1rem;}
+.rem3 {font-size: 3rem;}
+.rem4 {font-size: 4rem;}
+.greek {list-style-type: lower-greek;}
+.square{list-style-type: square;}
+.table-test {
+    border-top: 20px solid palevioletred;
+    border-bottom: 10px solid red;
+    border-left: 5px dotted purple;
+    border-right: 5px dashed plum;}
+.table-test td {border: 1px solid black;}
+body {
+background-image: url(../img/cat3.jpg);
+background-repeat: repeat-y;
+background-position:right top;
+background-size: 10rem auto;
+background-color: #ffe4ec;}
